@@ -74,6 +74,7 @@ public class ActivityMain extends AppCompatActivity implements View.OnClickListe
                         sample.setText("value is " + value);
 
 
+
                         // Toast.makeText(getApplicationContext(),"value is "+value,Toast.LENGTH_LONG).show();
 
                     }
